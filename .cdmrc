@@ -1,1 +1,7 @@
-
+# terminals
+terminals:
+    [
+        'echo "Hello World"'
+    ]
+# other config
+tabs: ['.cdmrc.md']
