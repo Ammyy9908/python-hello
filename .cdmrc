@@ -5,3 +5,4 @@ terminals:
     ]
 # other config
 tabs: ['index.py']
+run-button: python index.py
