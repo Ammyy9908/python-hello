@@ -4,4 +4,4 @@ terminals:
         'echo "Hello World"'
     ]
 # other config
-tabs: ['.cdmrc.md']
+tabs: ['index.py']
